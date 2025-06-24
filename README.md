@@ -2,7 +2,7 @@
 
 This is a YouTube Music player which uses YT-dlp service to download songs to your system locally and play it along with its album art.
 
-This program also has ffmpeg conversion which converts audio into mp3 format for a better sound experience.
+This program also has ffmpeg conversion which converts audio into mp3 format for a better sound experience and best compatible with the player.
 
 ![Screenshot (13)](https://github.com/user-attachments/assets/4630ddb4-1529-4c57-8a04-9c43266c3c2c)
 

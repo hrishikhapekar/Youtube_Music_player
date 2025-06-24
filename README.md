@@ -4,5 +4,6 @@ This is a YouTube Music player which uses YT-dlp service to download songs to yo
 
 This program also has ffmpeg conversion which converts audio into mp3 format for a better sound experience.
 
-![image](https://github.com/user-attachments/assets/f8308e98-5fa2-46a7-8583-86e1b253da54)
+![Screenshot (13)](https://github.com/user-attachments/assets/4630ddb4-1529-4c57-8a04-9c43266c3c2c)
+
 The program also has a toggle switch for dark-mode and light-mode.

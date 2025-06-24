@@ -1,0 +1,5 @@
+pygame==2.6.1
+yt-dlp
+mutagen
+Pillow
+requests
